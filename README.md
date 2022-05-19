@@ -1,6 +1,8 @@
 <div align="center">
-  <img width="767" alt="Screen Shot 2022-05-18 at 19 57 25" src="https://user-images.githubusercontent.com/89936120/169361925-79579504-55c0-4910-a432-fa3368d00755.png">
+  <img width="762" alt="Screen Shot 2022-05-19 at 16 24 24" src="https://user-images.githubusercontent.com/89936120/169387250-826fbe2c-b766-4282-a4dc-d7f39cc05255.png">
 </div>
+
+##
 
 - 🔭 I’m currently working on Trybe projects to improve my portfolio.
 - 🌱 I’m currently learning Javascript with general purposes, including .
