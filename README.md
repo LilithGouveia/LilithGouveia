@@ -5,7 +5,7 @@
 ##
 
 - 🔭 I’m currently working on Trybe projects to improve my portfolio.
-- 🌱 I’m currently learning Javascript with general purposes, including .
+- 🌱 I’m currently learning Javascript with general purposes, some of the itens listed below.
 - 📫 How to reach me: lilithgouveia@outlook.com
 - 😄 Pronouns: Ela/Dela | She/Her
 
